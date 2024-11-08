@@ -1,1 +1,0 @@
-print("Wo men jin")
